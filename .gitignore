@@ -1,7 +1,0 @@
-#Ignore the following files
-
-bin/cut_deltas_blob.py
-bin/make_blob_lensed_zcat.py
-bin/make_rings_gif.py
-bin/make_small_blob_zcat.py
-bin/move_forests_blobs.py
